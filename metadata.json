@@ -1,0 +1,5 @@
+{
+  "name": "AI Website Builder",
+  "description": "An AI-powered website builder that generates complete HTML and Tailwind CSS code from user prompts. Features a real-time preview and a code editor for manual adjustments.",
+  "requestFramePermissions": []
+}
